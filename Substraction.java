@@ -1,4 +1,4 @@
-class Substraction{
+	class Substraction{
 public static void main(String a[]){
 int finalValue =sub(72,56);
 System.out.println(finalValue);
