@@ -1,0 +1,3 @@
+class Kohli extends Cricketer
+{
+}

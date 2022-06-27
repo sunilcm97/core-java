@@ -1,0 +1,3 @@
+class Fan extends ElectronicDevice
+{
+}

@@ -1,0 +1,2 @@
+class Lenovo extends Laptop{
+}

@@ -1,0 +1,3 @@
+class Xworkz extends Institute
+{
+}

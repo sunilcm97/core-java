@@ -1,0 +1,3 @@
+class Tuborg extends Beer
+{
+}
