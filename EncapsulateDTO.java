@@ -6,7 +6,8 @@
     private int geekRoll;
     private int geekAge;
 	 
-	 public 
+	 public EncapsulateDTO(){
+     }		 
  
     // get method for age to access
     // private variable geekAge

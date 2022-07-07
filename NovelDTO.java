@@ -1,6 +1,6 @@
-   public class Novel{
+   public class NovelDTO{
 
-  public Novel(){
+  public NovelDTO(){
    System.out.println("Novel Object is Created");
     }
     private String name;

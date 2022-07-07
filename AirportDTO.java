@@ -1,6 +1,6 @@
-   public class Airport{
+   public class AirportDTO{
 
-  public Airport(){
+  public AirportDTO(){
    System.out.println("Airport Object is Created");
     }
     private String name;

@@ -1,6 +1,6 @@
-   public class Newspaper{
+   public class NewspaperDTO{
 
-  public Newspaper(){
+  public NewspaperDTO(){
    System.out.println("Newspaper Object is Created");
     }
     private String name;

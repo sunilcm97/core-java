@@ -1,6 +1,6 @@
 class NewspaperTester{
    public static void main(String a[]){
-   Newspaper np = new Newspaper();
+   NewspaperDTO np = new NewspaperDTO();
    np.setName("Hindhu");
    np.setNoofPages(12);
    np.setPrice(3.00d);

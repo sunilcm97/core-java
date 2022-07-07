@@ -1,6 +1,6 @@
-   public class Music{
+   public class MusicDTO{
 
-  public Music(){
+  public MusicDTO(){
    System.out.println("Music Object is Created");
     }
     private String musicType;

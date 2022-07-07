@@ -1,6 +1,6 @@
 class IPLTester{
    public static void main(String a[]){
-   IPL ipl = new IPL();
+   IPLDTO ipl = new IPLDTO();
    ipl.setHost("TATA IPL");
    ipl.setNoofTeams(12);
    ipl.setOwner("BCCI");

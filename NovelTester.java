@@ -1,6 +1,6 @@
 class NovelTester{
    public static void main(String a[]){
-   Novel nov = new Novel();
+   NovelDTO nov = new NovelDTO();
    nov.setName("Malenada Chithragalu");
    nov.setPublicationName("Mysore Publication");
    nov.setPrice(435);

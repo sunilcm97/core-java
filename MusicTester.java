@@ -1,6 +1,6 @@
 class MusicTester{
    public static void main(String a[]){
-   Music ms = new Music();
+   MusicDTO ms = new MusicDTO();
    ms.setMusicType("Melody");
    ms.setMusicName("Evanu gelayanala");
    ms.setDurationTime(3.55d);

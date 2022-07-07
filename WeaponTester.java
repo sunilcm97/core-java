@@ -2,7 +2,7 @@ public class WeaponTester{
     
 	public static void main(String a[]){
 	
-	Weapon we = new Weapon();
+	WeaponDTO we = new WeaponDTO();
 	
 	we.setName("Gun");
 	we.setType("AK47");

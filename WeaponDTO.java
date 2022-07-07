@@ -1,8 +1,11 @@
-class Weapon{
+public class WeaponDTO{
 
      private String name;
 	 private String type;
 	 private int magzine;
+	 
+	 public WeaponDTO(){
+	 }		 
 	 
 	 public String getName(){
 	

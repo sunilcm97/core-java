@@ -1,8 +1,11 @@
-class TvChannel{
+public class TvChannelDTO{
 
       private String name;
 	  private String langauge;
 	  private int channelNo;
+	  
+	  public TvChannelDTO(){
+      }		  
 
 
 public String getName(){

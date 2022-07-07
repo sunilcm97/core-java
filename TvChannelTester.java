@@ -2,7 +2,7 @@ public class TvChannelTester{
     
 	public static void main(String a[]){
 	
-	TvChannel tv = new TvChannel();
+	TvChannelDTO tv = new TvChannelDTO();
 	
 	tv.setName("Asia Net");
 	tv.setLangauge("Malayalam");

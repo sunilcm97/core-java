@@ -1,6 +1,6 @@
 class AirportTester{
    public static void main(String a[]){
-   Airport air = new Airport();
+   AirportDTO air = new AirportDTO();
    air.setName("Devanahalli");
    air.setContactNo(9663459862L);
    air.setId(007);

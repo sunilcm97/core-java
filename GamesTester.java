@@ -2,7 +2,7 @@ public class GamesTester{
     
 	public static void main(String a[]){
 	
-	Games game = new Games();
+	GamesDTO game = new GamesDTO();
 	
 	game.setName("volleyball");
 	game.setPlayers(12);

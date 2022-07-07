@@ -1,6 +1,6 @@
-public class Stadium{
+public class StadiumDTO{
 
-public Stadium(){
+public StadiumDTO(){
 System.out.println("Statidum Object is Created");
 }
     private String name;

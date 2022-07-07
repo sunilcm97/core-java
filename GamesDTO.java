@@ -1,8 +1,12 @@
-class Games{
+ public class GamesDTO{
 
    private String name;
    private int noOfPlayers;
    private int points;
+   
+   public GamesDTO(){
+	   System.out.println("Game object is created");
+   }
    
    public String getName(){
     return name;

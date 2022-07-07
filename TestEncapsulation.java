@@ -1,7 +1,7 @@
 public class TestEncapsulation {
     public static void main(String[] args)
     {
-        Encapsulate obj = new Encapsulate();
+        EncapsulateDTO obj = new EncapsulateDTO();
  
         // setting values of the variables
         obj.setName("Harsh");
